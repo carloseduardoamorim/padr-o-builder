@@ -5,7 +5,7 @@
  */
 package com.mycompany.atividade.builder;
 
-class Vendedor {
+public class Vendedor {
     private long id;
     private String nome;
 
